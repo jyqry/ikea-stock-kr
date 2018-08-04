@@ -1,0 +1,27 @@
+{
+  "name": "ikea-stock-kr",
+  "version": "1.0.0",
+  "description": "IKEA Korea item stocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:jyqry/ikea-stock-kr.git"
+  },
+  "keywords": [
+    "ikea"
+  ],
+  "author": "chiwoong",
+  "bugs": {
+    "url": "https://github.com/GwonHyeok/kma-js/issues"
+  },
+  "homepage": "https://github.com/jyqry/ikea-stock-kr#readme",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.19",
+    "mocha": "^2.5.3",
+    "request": "^2.74.0"
+  }
+}
