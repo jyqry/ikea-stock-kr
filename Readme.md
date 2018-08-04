@@ -37,8 +37,8 @@ https://www.ikea.com/kr/ko/catalog/products/S59252133/
 ```json
 {
   "partNumber": "S59252133",
-  "isSoldInStore": true,
-  "availableStock": 0,
+  "isSoldInStore": "true",
+  "availableStock": "0",
   "inStockProbabilityCode": "LOW",
   "restockDate": "2018-08-20"
 }
